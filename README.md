@@ -1,4 +1,4 @@
-# It's Harvest Time
+![Harvest Time](./BeachBridge.jpeg)
 
 It's that time of year to enjoy the warm days an cool evenings. 
 
