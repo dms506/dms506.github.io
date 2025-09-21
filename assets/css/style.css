@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Make images responsive */
 img {
-    max-width: 100%;
+    width: 75%;
     height: auto;
     display: block;
     margin: 20px auto;
