@@ -1,5 +1,4 @@
 
-<div style="background-color:black; color:white; padding:16px;">
 
 ![Harvest Time](./BeachBridge.jpeg)
 
@@ -12,6 +11,4 @@ Testing change.
 ## Social
 
 Connect with me on [Bluesky](https://bsky.app/profile/davidmarksmith.com).
-
-</div>
 
