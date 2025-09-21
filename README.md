@@ -1,6 +1,6 @@
 
 
-![Harvest Time](./BeachBridge.jpeg)
+![Harvest Time](./CandySky.jpeg)
 
 It's the time of year to enjoy the warm days and cool evenings. 
 
