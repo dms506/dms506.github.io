@@ -1,6 +1,6 @@
 
 
-![Harvest Time](./CandySky.jpeg)
+![Harvest Time](./assets/images/pinkSkyWater.jpeg)
 
 ---
 
