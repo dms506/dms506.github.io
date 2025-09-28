@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# macOS directories
+.AppleDouble
+.LSOverride
+
+# macOS metadata
+Icon
+Icon?
+
+# macOS temp files
+*~
+
+assets/.DS_Store
