@@ -1,8 +1,6 @@
 
 
----
-layout: default
----
+
 
 <img id="headerImage" src="./assets/images/pinkSkyWater.jpeg" alt="Header Image" style="width: 100%; max-width: 800px; height: auto; display: block; margin: 0 auto; border-radius: 8px;">
 
