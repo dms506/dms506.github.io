@@ -6,7 +6,8 @@ function getRandomImage() {
         './assets/images/SagouineSky.jpeg',
         './assets/images/ConfedBridge.jpeg',
         './assets/images/MammatusPink.jpeg',
-        './assets/images/BeachKite.jpeg' 
+        './assets/images/BeachKite.jpeg',
+        './assets/images/TheSkyIsBlue.jpeg'
 
 
         // Add more image paths as needed
